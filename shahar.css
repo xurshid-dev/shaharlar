@@ -83,8 +83,8 @@ nav ul li {
   
   /* Style the footer */
   footer {
-    background-color: #777;
-    padding: 10px;
+    background-color: rgb(73, 164, 180);
+    padding: 2px;
     text-align: center;
     color: white;
   }
